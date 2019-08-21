@@ -1,5 +1,16 @@
-# Data science-Portfolio
-Data science Portfolio
-### Repository containing portfolio of data science projects completed by me for self learning. Presented in the form of jupyter Notebooks.
+# Data Science
 
-Note: Data used in the projects (accessed under data directory) is for demonstration purposes only.
+Hi! there,
+A dataset relating characteristics of telephony account features and usage and whether or not the customer churned.
+
+**Source  & Copyrights**
+**BigML**
+[Churn Data Set](http://www.dataminingconsultant.com/data/churn.txt)  from  [Discovering Knowledge in Data: An Introduction to Data Mining](http://www.dataminingconsultant.com/DKD.htm)
+
+#### For Educational use only
+__________________________________________________________________________________________________________________________________________
+
+# 1. Exploratory data analysis with Pandas
+## Outline
+## a.Demonstration of main Pandas methods
+## b.First attempt at predicting telecom churn
